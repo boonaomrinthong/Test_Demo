@@ -1,0 +1,115 @@
+body {
+    background: #333;
+  }
+  .video-container {
+    position: relative;
+  }
+  video {
+    height: auto;
+    vertical-align: middle;
+    width: 100%;
+  }
+  .overlay-desc {
+    background: rgba(0,0,0,0);
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  h1 {
+    color: white;
+    font-family: 'Nobile', sans-serif;
+    font-size: 9vw;
+    text-align: center;
+    
+  }
+  
+  main {
+    margin: 0 auto;
+    width: 80%;
+  }
+  
+  .p {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    
+  }
+
+  .content {
+    /* position: fixed;
+    bottom: 0; */
+    background: rgb(4, 26, 1);
+    color: #ffffff;
+    width: 100%;
+    padding: 20px;
+       /* display: flex; */
+    align-items: center;
+    /* justify-content: center; */
+    
+    
+  }
+
+  .h1border{
+    border: 3px solid rgb(249, 250, 247);
+  }
+.nopadding {
+padding-left: 0 !important ;
+padding-right: 0 !important;
+}
+ .h3 {
+  
+    background: rgb(37, 2, 2);
+      width: 100%; 
+      height:100%;
+     }
+     .p1 {
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 0.9rem;
+        line-height: 1.9rem;
+        
+      }
+      .p2 {
+        color: rgb(253, 249, 6);
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1rem;
+        line-height: 0.5rem;
+        padding-right: 30px;
+     
+      }
+      .overlay-desc2 {
+        background: rgba(0,0,0,0);
+        position: absolute;
+        top: 0; right: 0; bottom: 0; left: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+      }
+      h4 {
+        color: white;
+        font-family: 'Nobile', sans-serif;
+        font-size: 4.5vw;
+        text-align: center;
+              
+      }
+      h5 {
+        color: rgb(37, 14, 4);
+        font-family: 'Nobile', sans-serif;
+        font-size: 3vw;
+        text-align: center;
+              
+      }
+      h6 {
+        color: rgb(241, 0, 0);
+        font-family: 'Nobile', sans-serif;
+        font-size: 4vw;
+         
+      }
+    
+      
+      
